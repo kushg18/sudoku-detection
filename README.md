@@ -3,7 +3,7 @@ Sudoku Detection
 
 ### About ###
 -----------------------------
-This project is about image processing on the given newspaper clip to perform sudoku detection
+This project is about ***image processing*** on the given newspaper clip to perform ***sudoku detection***
 
 ### Technology Stack ### 
 -----------------------------
@@ -37,11 +37,11 @@ Here, cell is the actual cell object image, the character set that needs to be r
 20.	Future work: Use these sudoku matrices obtained from different newspaper clips and stored in the MATLAB variable to actually solve the puzzle.
 After running the above imaging chain to perform object segmentation on the given sample images, I was able to achieve perfect Sudoku box segmentation from the given newspapers, but this imaging chain might not work for all possible combinations of erroneous images that might fail this imaging chain process. 
 
-### Result Screenshots ###
+### Result Example ###
 -----------------------------
 
-#### Home Page ####
-![alt text](https://github.com/kushg18/timeclockapp/blob/master/screenshots/home.png)
+#### Newspaper Clip of Sudoku ####
+![alt text](https://github.com/kushg18/sudoku-detection/blob/master/SudokuImages/SCAN00051.JPG)
 
-#### Dashboard Page ####
-![alt text](https://github.com/kushg18/timeclockapp/blob/master/screenshots/dashboard.png)
+#### Detected Sudoku Matrix ####
+![alt text](https://github.com/kushg18/sudoku-detection/blob/master/SudokuResults/SCAN0051_Sudoku.png)
