@@ -9,6 +9,7 @@ This project is about ***image processing*** on the given newspaper clip to perf
 -----------------------------
 1. MATLAB
 2. Image processing chain using the in-build packages provided by MATLAB
+3. Optical Character Recognition
 
 ### Image Processing Chain ### 
 -----------------------------
