@@ -8,7 +8,7 @@ This project is about ***image processing*** on the given newspaper clip to perf
 ### Technology Stack ### 
 -----------------------------
 1. MATLAB
-2. Image processing chain using the in-build packages provided by MATLAB
+2. Image Processing Chain Using Built-in Packages in MATLAB
 3. Optical Character Recognition
 
 ### Image Processing Chain ### 
